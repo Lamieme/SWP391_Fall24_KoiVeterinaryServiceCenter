@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'SVN-Konga Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('SVN-Konga Pro', url('./assets/fonts/SVN-KongaPro.otf') format('opentype'));
+}
